@@ -26,5 +26,4 @@
 - python 
 - DBMS
 ## Certifications
-- completed **python for everybody** in **coursera**
-- certified by **fullstack** nano degree in **Udacity**
+- completed **basics of cyber security** in APSSDC
