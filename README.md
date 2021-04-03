@@ -27,4 +27,4 @@
 - DBMS
 ## Certifications
 - completed **python for everybody** in **coursera**
--certified by **fullstack** nano degree in **Udacity**
+- certified by **fullstack** nano degree in **Udacity**
